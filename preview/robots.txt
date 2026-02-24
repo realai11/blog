@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////home/mint/Documents/Publii/sites/blog-reliable-ai/preview/sitemap.xml

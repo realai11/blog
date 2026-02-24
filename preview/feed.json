@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog - Reliable AI",
+    "description": "",
+    "home_page_url": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview",
+    "feed_url": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Admin"
+    },
+    "items": [
+        {
+            "id": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/ai-automation-innovation.html",
+            "url": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/ai-automation-innovation.html",
+            "title": "AI automation innovation ",
+            "summary": "Test test test test",
+            "content_html": "<p>Test test test test</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/stock1.jpg\" alt=\"\" width=\"1920\" height=\"1280\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/responsive/stock1-xs.jpg 640w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/responsive/stock1-sm.jpg 768w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/responsive/stock1-md.jpg 1024w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/responsive/stock1-lg.jpg 1366w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/responsive/stock1-xl.jpg 1600w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/responsive/stock1-2xl.jpg 1920w\"></figure>",
+            "image": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/1/stock1-2.jpg",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-23T16:30:00+00:00",
+            "date_modified": "2026-02-23T16:30:00+00:00"
+        },
+        {
+            "id": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/how-webapps-can-improve-conversions.html",
+            "url": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/how-webapps-can-improve-conversions.html",
+            "title": "How webapps can improve conversions ?",
+            "summary": "test test test test",
+            "content_html": "<p>test test test test </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/stock2-3.jpg\" alt=\"\" width=\"1920\" height=\"1364\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/responsive/stock2-3-xs.jpg 640w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/responsive/stock2-3-sm.jpg 768w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/responsive/stock2-3-md.jpg 1024w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/responsive/stock2-3-lg.jpg 1366w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/responsive/stock2-3-xl.jpg 1600w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/responsive/stock2-3-2xl.jpg 1920w\"></figure>",
+            "image": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/3/stock2-2.jpg",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-21T16:33:36+00:00",
+            "date_modified": "2026-02-22T16:26:41+00:00"
+        },
+        {
+            "id": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/invoice-processing-made-easy.html",
+            "url": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/invoice-processing-made-easy.html",
+            "title": "Invoice processing made easy",
+            "summary": "test test test test",
+            "content_html": "<p>test test test test </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/business-stock.jpeg\" alt=\"\" width=\"1200\" height=\"799\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/responsive/business-stock-xs.jpeg 640w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/responsive/business-stock-sm.jpeg 768w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/responsive/business-stock-md.jpeg 1024w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/responsive/business-stock-lg.jpeg 1366w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/responsive/business-stock-xl.jpeg 1600w ,file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/responsive/business-stock-2xl.jpeg 1920w\"></figure>",
+            "image": "file:///home/mint/Documents/Publii/sites/blog-reliable-ai/preview/media/posts/2/business-stock-2.jpeg",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-21T16:32:38+00:00",
+            "date_modified": "2026-02-23T13:35:43+00:00"
+        }
+    ]
+}
